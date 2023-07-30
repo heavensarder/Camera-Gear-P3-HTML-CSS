@@ -357,7 +357,7 @@ align-items: center;
         text-align: center;
     }
     .featuerContent{
-        flex-direction: column;
+        flex-direction: column-reverse;
         align-items: center;
 
     }
